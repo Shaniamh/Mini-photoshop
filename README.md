@@ -1,0 +1,3 @@
+# Description
+
+The project from the 4th semester Image Processing course, made a mini photoshop editor using C # language with Microsoft Visual Studio 2010 software. It contains open files, save files, brightness greyscale images & RGB images, contrasting greyscale images & RGB images, inverse greyscale images & RGB images , autolevel, flip horizontal, flip vertical, rotate 180, rotate 90, greyscale filter, sepia filter, B & W, quantization, threshold, histogram, histogram equalization, CDF, convolution, gaussian noise, speckle noise. salt & pepper noise, average filter, noise reduction, robert edge detection, prewwit edge detection, sobel edge detection, edge detection laplacian, sharpness, RGB layer, greyscale red, greyscale green and greyscale blue.
